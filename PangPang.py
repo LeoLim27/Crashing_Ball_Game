@@ -2,7 +2,7 @@ import pygame
 
 pygame.init()
 
-#Screeb size
+#Screen size
 screen_width =784
 screen_height =480
 screen = pygame.display.set_mode((screen_width, screen_height))
